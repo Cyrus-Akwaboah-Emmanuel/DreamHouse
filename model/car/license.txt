@@ -1,0 +1,11 @@
+Model Information:
+* title:	1967 Alfa Romeo Tipo 33 Stradale
+* source:	https://sketchfab.com/3d-models/1967-alfa-romeo-tipo-33-stradale-96b226344d5042f0a75d5962d1352944
+* author:	Ddiaz Design (https://sketchfab.com/ddiaz-design)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1967 Alfa Romeo Tipo 33 Stradale" (https://sketchfab.com/3d-models/1967-alfa-romeo-tipo-33-stradale-96b226344d5042f0a75d5962d1352944) by Ddiaz Design (https://sketchfab.com/ddiaz-design) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
