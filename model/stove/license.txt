@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stove Asset - Home Appliances
+* source:	https://sketchfab.com/3d-models/stove-asset-home-appliances-e4a1aafed0ec43a79c20f91dfcfe5670
+* author:	Alstra Infinite (https://sketchfab.com/alstrainfinite)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stove Asset - Home Appliances" (https://sketchfab.com/3d-models/stove-asset-home-appliances-e4a1aafed0ec43a79c20f91dfcfe5670) by Alstra Infinite (https://sketchfab.com/alstrainfinite) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
