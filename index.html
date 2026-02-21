@@ -4,26 +4,6 @@
   <title>PS/CSC/22/0009 | DREAM HOUSE</title>
   <script src="script/aframe.min.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.4.0/dist/aframe-extras.min.js"></script>
-    
-  <script>
-    AFRAME.registerComponent('water-flow', {
-      schema: { speed: { type: 'number', default: 0.05 } },
-      init: function () {
-        this.direction = 2;
-      },
-      tick: function (time, timeDelta) {
-        const el = this.el;
-        const currentPos = el.getAttribute('position');
-        
-        // Move up and down between limits
-        if (currentPos.y > 0.18) this.direction = -1;
-        if (currentPos.y < 0.14) this.direction = 1;
-        
-        const newY = currentPos.y + (this.direction * (this.data.speed * (timeDelta / 1000)));
-        el.setAttribute('position', {x: currentPos.x, y: newY, z: currentPos.z});
-      }
-    });
-  </script>
 </head>
 <body>
   <a-scene background="color: #87CEEB">
@@ -274,4 +254,5 @@
     </a-entity>
   </a-scene>
 </body>
+
 </html>
